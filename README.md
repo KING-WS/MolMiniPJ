@@ -44,7 +44,7 @@
 | 역할 | 이름 |
 | :--- | :--- |
 | **Project Lead** | [구민우] |
-| **TEAM 1** | [김우성](https://https://github.com/KING-WS) |
+| **TEAM 1** | [김우성](https://github.com/KING-WS) |
 | **TEAM 2** | [신창영] |
 | **TEAM 3** | [정승혁] |
 
